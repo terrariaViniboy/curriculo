@@ -18,10 +18,14 @@
 - **HTML**
 - **CSS**
 - **Javascript**
+- **React**
+- **VUE**
+
+#
 
 ### Infraestrutura:
 - **Linux**
-
+#
 ### Ferramentas:
 - **VScode**
 - **Chrome**
